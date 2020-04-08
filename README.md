@@ -4,7 +4,7 @@
 
 If you work through the videos and the notebooks you'll end up with a pretty solid foundational understanding of how COVID models work. You'll also (hopefully) understand how small changes in concepts like "how many people does an average person interact with each day?" can create a large difference in how many people end up infected.
 
-## The videos
+## ▶️ The videos
 
 You'll want to check out [the YouTube playlist](https://www.youtube.com/playlist?list=PLewNEVDy7gq1w-CbbPUowTHaHZWSt-Ojc), but hey, I've broken it down here anyway:
 
@@ -15,12 +15,24 @@ You'll want to check out [the YouTube playlist](https://www.youtube.com/playlist
 
 You need the videos. Just looking at the notebooks would be a crime.
 
-## The notebooks
+## 💾 The code
 
 
-First, the not-very-attractive [Basics of COVID modeling](blob/master/Basics%20of%20COVID%20modeling.ipynb)
-We have two notebooks here. notebook, which is me scrawling down words and phrases as I work through the videos above.
+* 📔 [Basics of COVID modeling.ipynb](Basics%20of%20COVID%20modeling.ipynb)
+* 🖥️ [Interactive version on Google Colab](https://colab.research.google.com/github/jsoma/python-disease-modeling/blob/master/Basics%20of%20COVID%20modeling.ipynb)
 
-Then, [Disease modeling in Python](blob/master/Disease%20modeling%20in%20Python.ipynb), which is a do-it-yourself SIR model where you can put in different effective contact rates and removal rates and see how things shake out.   
+Me scrawling down words and phrases as I work through the videos above. Not terribly interesting, and you can get all of its content out of watching the video.
 
-The first one is not terribly interesting, and you can get all of its contents out of watching the video. The second one is worth taking a peek at, and it also includes some **homework problems!**
+
+---
+
+* 📔 [Disease modeling in Python.ipynb](Disease%20modeling%20in%20Python.ipynb)
+* 🖥️ [Interactive version on Google Colab](https://colab.research.google.com/github/jsoma/python-disease-modeling/blob/master/Disease%20modeling%20in%20Python.ipynb)
+
+A do-it-yourself SIR model where you can put in different effective contact rates and removal rates and see how things shake out.
+
+Includes some **homework problems!**
+
+
+
+

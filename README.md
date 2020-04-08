@@ -1,4 +1,4 @@
-# Modeling disease spread Python
+# Modeling disease spread with (or without) Python
 
 **A walkthrough of how SIR infectious disease modeling works**, along with a do-it-yourself Python model that you can use to simulate a COVID lockdown.
 

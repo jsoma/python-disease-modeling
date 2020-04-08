@@ -19,8 +19,8 @@ You need the videos. Just looking at the notebooks would be a crime.
 
 We have two notebooks here.
 
-First, the not-very-attractive [Basics of COVID modeling](/jsoma/python-disease-modeling/blob/master/Basics of COVID modeling.ipynb) notebook, which is me scrawling down words and phrases as I work through the videos above.
+First, the not-very-attractive [Basics of COVID modeling](/jsoma/python-disease-modeling/blob/master/Basics%20of%20COVID%20modeling.ipynb) notebook, which is me scrawling down words and phrases as I work through the videos above.
 
-Then, [Disease modeling in Python](/jsoma/python-disease-modeling/blob/master/Disease modeling in Python.ipynb), which is a do-it-yourself SIR model where you can put in different effective contact rates and removal rates and see how things shake out.   
+Then, [Disease modeling in Python](/jsoma/python-disease-modeling/blob/master/Disease%20modeling%20in%20Python.ipynb), which is a do-it-yourself SIR model where you can put in different effective contact rates and removal rates and see how things shake out.   
 
 The first one is not terribly interesting, and you can get all of its contents out of watching the video. The second one is worth taking a peek at, and it also includes some **homework problems!**

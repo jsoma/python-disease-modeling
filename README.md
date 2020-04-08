@@ -1,8 +1,12 @@
 # Modeling disease spread Python
 
-**A walkthrough of how SIR infectious disease modeling works**, along with a do-it-yourself Python COVID model that you can use to simulate a lockdown.
+**A walkthrough of how SIR infectious disease modeling works**, along with a do-it-yourself Python model that you can use to simulate a COVID lockdown.
 
 If you work through the videos and the notebooks you'll end up with a pretty solid foundational understanding of how COVID models work. You'll also (hopefully) understand how small changes in concepts like "how many people does an average person interact with each day?" can create a large difference in how many people end up infected.
+
+> **Disclaimer:** I don't know anything about epidemiology! like all the other experts on Twitter, I just started looking into this stuff v recently.
+> 
+>  But hopefully this material can do a half-legitimate job of explaining some of the concepts behind a simple model and how everything fits together.
 
 ## ▶️ The videos
 

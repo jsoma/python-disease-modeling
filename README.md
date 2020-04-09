@@ -37,6 +37,13 @@ A do-it-yourself SIR model where you can put in different effective contact rate
 
 Includes some **homework problems!**
 
+## Other links
+
+[PyRoss](https://github.com/rajeshrinet/pyross), a Python library that implements SIR, SEIR, SEAIR, and SEAIRQ models.
+
+[Epidemic Calculator](https://gabgoh.github.io/COVID/index.html), an interactive tool that you can now understand a lot better!
+
+
 
 
 
